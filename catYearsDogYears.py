@@ -1,5 +1,5 @@
 def calculate_pet_ages(human_years):
-    # Inicializar los años para el gato y el perro
+    # Cambio de prueba
     if human_years == 1:
         cat_years = 15
         dog_years = 15
